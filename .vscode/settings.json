@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "tsimporter.emitSemicolon": false,
+    "tsimporter.doubleQuotes": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "dist": false,
+        ".vscode": true,
+        "node_modules": true,
+        "package.json": false,
+        "**/**.js": true,
+        "tsconfig.json": true,
+        ".gitignore": true,
+        "tslint.json": false,
+        ".editorconfig": true
+    }
+}
